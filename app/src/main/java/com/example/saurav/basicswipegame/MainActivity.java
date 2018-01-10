@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
             scoreView.setText(score + " points");
             failsView.setText(fails + "");
 
-            if(fails > 5)
+            if(fails > 4)
                 onGameOver();
 
 
