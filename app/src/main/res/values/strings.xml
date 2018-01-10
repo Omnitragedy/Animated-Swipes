@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicSwipeGame</string>
+    <string name="start">Start!</string>
+    <string name="bluerectangle">BlueRectangle</string>
+</resources>
